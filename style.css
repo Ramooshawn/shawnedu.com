@@ -192,5 +192,157 @@ background-color: #fff;
 
 }
 
-@media only screen and (min-width: 768px) {
+@media screen and (max-width:1200px) {
+   /*Normal Screen*/
+
+   .navbar{
+      width: 95%;
+      height: 105px;
+
+}
+
+.menu{
+   margin-left: 20px;
+   font-size: 104vw;
+   height: 20px;
+   
+ }
+
+
+ 
+ul{
+margin-left: 30px;
+}
+
+ul li a {
+font-size: 1.6vw;
+
+}
+
+.search{
+margin-top: 3px;
+margin-left: 290px;
+}
+
+.srch{
+height: 40px;
+width: 190px;
+font-size: 14px;
+
+}
+
+.btn{
+height: 45px;
+width: 85px;
+
+}
+
+.content{
+width: 100%;
+}
+
+.content h1, .content span{
+font-size: 9vw;
+padding-top: 50px;
+}
+
+.content .par{
+width: 90%;
+font-size: 4vw;
+}
+
+.content .cn{
+width: 20%;
+height: 5vw;
+font-size: 1vw;
+margin-left: -20px;
+}
+
+.content a{
+font-size: 1.6vw;
+}
+
+
+}
+
+@media screen and (max-width:600px) {
+    /*IPAD old version*/
+
+    .content{
+     margin-top: 80px;
+     margin-left: 20px;
+
+    }
+
+    .search{
+    margin-top: -40px;
+    margin-left: 42px;
+
+    }
+
+    
+
+   
+
+    ul{
+     margin-top: -25px;
+     margin-left: -5px;
+    }
+
+    ul li{
+     margin-left: 50px;
+    }
+
+    ul li a{
+     font-size: 50px;
+    }
+
+    ul li a{
+     font-size: 2vw;
+    }
+} 
+
+@media screen and (max-width:450px) {
+/*mobile*/
+
+.logo{
+   margin-left: 90px;
+   font-size: 5vw;
+   padding-left: 70px;
+   margin-top: 65px;
+      
+
+}
+
+.fly{
+   font-size: 15px;
+   
+   margin-left: 162px;
+}
+
+ul li{
+margin-left: 42px;
+}
+
+ul li a{
+font-size: 2vw;
+}
+
+.search{
+margin-top: -40px;
+margin-left: 38px;
+
+}
+
+.btn{
+   height: 45px;
+   width: 85px;
+   margin-right: 10px;
+   }
+
+
+}
+
+
+
   
