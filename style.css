@@ -204,7 +204,7 @@ background-color: #fff;
 .menu{
    margin-left: 20px;
    font-size: 104vw;
-   height: 20px;
+   height: 22px;
    padding-right: -3px;
    
  }
@@ -244,7 +244,7 @@ width: 100%;
 
 .content h1, .content span{
 font-size: 9vw;
-padding-top: 50px;
+padding-top: 0px;
 padding-right: 30px;
 }
 
