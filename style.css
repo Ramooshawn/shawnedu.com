@@ -244,21 +244,21 @@ width: 100%;
 
 .content h1, .content span{
 font-size: 9vw;
-padding-top: 0px;
-padding-right: 30px;
+padding-top: -2px;
+padding-right: 40px;
 }
 
 .content .par{
-width: 90%;
+width: 60%;
 font-size: 4vw;
-padding-right: 30px;
+padding-right: 70px;
 }
 
 .content .cn{
 width: 20%;
-height: 5vw;
+height: 7vw;
 font-size: 1vw;
-margin-left: -20px;
+margin-right: 45px;
 
 }
 
